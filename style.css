@@ -1,0 +1,34 @@
+body {
+  background:rgba(255, 200, 100,.5);
+  font-family: sans-serif;
+}
+h1{
+    color: royalblue;
+}
+.header, h2 ,h3 {
+   color: darkcyan;
+}
+a {
+    color: green;
+     font-size: x-large;
+}
+.sub-heading {
+    color: rgb(54, 76, 238);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font: weight 20px;
+
+}
+
+.article-box {
+    background-color: rgb(199, 153, 75);
+}
+
+.article-heading {
+    color: red;
+    font-style: italic;
+}
+
+#container {
+    width: 200xp;
+}
